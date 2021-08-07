@@ -63,6 +63,10 @@ header.mb-10 {
   img.my-proflie-picture {
     width: 200px;
   }
+
+  div.lead {
+    margin-top: 5rem;
+  }
 }
 
 @media (max-width: 767.98px) {
