@@ -63,6 +63,18 @@ header.mb-10 {
 
 @media (max-width: 767.98px) {
   img.my-proflie-picture {
-    width: 120px;
+    width: 90px;
+  }
+
+  header.mb-10 {
+    margin-bottom: 2.5rem;
+  }
+
+  .my-profile-name {
+    font-size: 1.3rem;
+  }
+
+  .my-profile-desc {
+    font-size: 1rem;
   }
 }
