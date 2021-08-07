@@ -20,6 +20,7 @@ body {
   background-image: url(./images/bg-big.jpg);
   background-repeat: no-repeat;
   background-blend-mode: soft-light;
+  background-size: cover;
 }
 
 .cover-container {
